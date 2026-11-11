@@ -1,0 +1,6 @@
+build/ 
+dist/ 
+nbproject/private/ 
+ecocanje_data.ser 
+.DS_Store 
+Thumbs.db 
